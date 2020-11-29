@@ -5,9 +5,16 @@
 * [How Do I Build a Quantum Computer in My House?](https://medium.com/qiskit/how-do-i-build-a-quantum-computer-in-my-house-1c7e9dc0c242) : Open-access frameworks like Qiskit let you program a quantum computer over the cloud, and you’re an enterprising person who has a familiarity with quantum computers. So, if you happen to find yourself in need of something to do, how about trying to program a quantum computer that you built yourself?
 * [Introduction to Coding Quantum Algorithms:A Tutorial Series Using Qiskit](https://arxiv.org/pdf/1903.04359.pdf) : As the field of Quantum Computing continues to grow, so too has the general public’s interest in testing some of the publicly available quantum computers. However, many might find learning all of the supplementary information that goes into quantum algorithms to be a daunting task, and become discouraged. This tutorial is a series of lessons, aimed to teach the basics of quantum algorithms to those who may have little to no background in quantum physics and/or minimal knowledge of coding in python. Each lesson covers select physics/coding topics needed for writing quantum algorithms, eventually building up a toolset for tackling more and more challenging quantum algorithms. This tutorial series is designed to provide readers from any background with two services: 1) A concise and thorough understanding of some of the most popular/academically important quantum algorithms. 2) A fluent understanding of how to write code for quantum algorithms, using IBM’s publicly available Qiskit.
 * [The Deutsch-Jozsa Algorithm](https://medium.com/datadriveninvestor/the-deutsch-jozsa-algorithm-f8611e2ff3ff) : The Math, the Code, and Why It Works
+* [Quantum Error Correction using Qiskit](https://medium.com/swlh/quantum-error-correction-using-qiskit-1d6b708490b9)
 * 
 
+# Outils en ligne
+* [Tensorflow playground](playground.tensorflow)
+
+
 # Maths, probabilités
+* [The statistical foundations of machine learning](https://towardsdatascience.com/the-statistical-foundations-of-machine-learning-973c356a95f)
+
 
 # Deep learning - IA - Machine learning
 * [Deep Learning with PyTorch: Zero to GANs](https://jovian.ai/learn/deep-learning-with-pytorch-zero-to-gans)
@@ -20,6 +27,8 @@ Maximum Likelihood Estimation (MLE) is a frequentist approach for estimating the
   * [Information Theory](https://towardsdatascience.com/fundamentals-of-machine-learning-part-3-b305933f00cd)
 The purpose of this post is to cover important concepts from Information Theory and describe how they are used in machine learning. Many of the topics here will build on concepts we discussed in the post on Probability Theory, such as independence and expectation.
 * [Interpretability of Machine Learning models](https://medium.com/analytics-vidhya/interpretability-of-machine-learning-models-9787cf8a3789)
+* [Cheat Sheets for Machine Learning Interview Topics](https://medium.com/swlh/cheat-sheets-for-machine-learning-interview-topics-51c2bc2bab4f)
+* 
 
 # Livres
 
@@ -34,7 +43,7 @@ The purpose of this post is to cover important concepts from Information Theory 
 
 # MOOCs
 * [Machine Learning par Université de Stanford (Andrew Ng)[https://www.coursera.org/learn/machine-learning/home/welcome) : The purpose of this post is to cover important concepts from Information Theory and describe how they are used in machine learning. Many of the topics here will build on concepts we discussed in the post on Probability Theory, such as independence and expectation.
-* [Construire un ordinateur moderne à partir de principes de base : de Nand à Tetris (cours centré sur un projet)[https://www.coursera.org/learn/build-a-computer] : In this project-centered course* you will build a modern computer system, from the ground up. We’ll divide this fascinating journey into six hands-on projects that will take you from constructing elementary logic gates all the way through creating a fully functioning general purpose computer. In the process, you will learn - in the most direct and constructive way - how computers work, and how they are designed.
+* [Construire un ordinateur moderne à partir de principes de base : de Nand à Tetris (cours centré sur un projet)](https://www.coursera.org/learn/build-a-computer) : In this project-centered course* you will build a modern computer system, from the ground up. We’ll divide this fascinating journey into six hands-on projects that will take you from constructing elementary logic gates all the way through creating a fully functioning general purpose computer. In the process, you will learn - in the most direct and constructive way - how computers work, and how they are designed.
 * [Convolutional Neural Networks (Andrew Ng)](https://www.coursera.org/learn/convolutional-neural-networks?action=enroll) : This course will teach you how to build convolutional neural networks and apply it to image data. Thanks to deep learning, computer vision is working far better than just two years ago, and this is enabling numerous exciting applications ranging from safe autonomous driving, to accurate face recognition, to automatic reading of radiology images. 
 * [Réseau de neurones et deep learning (Andrew Ng)](https://www.coursera.org/learn/neural-networks-deep-learning) : If you want to break into cutting-edge AI, this course will help you do so. Deep learning engineers are highly sought after, and mastering deep learning will give you numerous new career opportunities. Deep learning is also a new "superpower" that will let you build AI systems that just weren't possible a few years ago. 
 * [Practical Deep Learning for Coders (fastai)](https://course.fast.ai/=
@@ -51,3 +60,6 @@ In part two, you will learn about Unsupervised Learning. Ever wonder how Netflix
 * [yandexdataschool Practical_RL](https://github.com/yandexdataschool/Practical_RL)
 * [MIT 6.S191 Introduction to Deep Learning](http://introtodeeplearning.com/) : MIT's introductory course on deep learning methods with applications to computer vision, natural language processing, biology, and more! Students will gain foundational knowledge of deep learning algorithms and get practical experience in building neural networks in TensorFlow. Course concludes with a project proposal competition with feedback from staff and panel of industry sponsors. Prerequisites assume calculus (i.e. taking derivatives) and linear algebra (i.e. matrix multiplication), we'll try to explain everything else along the way! Experience in Python is helpful but not necessary. Listeners are welcome!
 * [Introduction to Quantum Computing and Quantum Hardware](https://qiskit.org/learn/intro-qc-qh/?learnLevel=All%20resources) : This course is an introduction to the world of quantum computing, with an exploration of some of the key quantum algorithms and their implementations using quantum circuits, as well as the quantum hardware that is designed to run these algorithms. The course was first offered during the Qiskit Global Summer School in July 2020 as a two-week intensive summer school.
+* [Machine Learning University](https://www.youtube.com/channel/UC12LqyqTQYbXatYS9AA7Nuw)
+* [Amazon’s own ‘Machine Learning University](https://aws.amazon.com/training/learn-about/machine-learning/)
+* [Deep Learning (Yann Le Cun](https://atcold.github.io/pytorch-Deep-Learning/) : This course concerns the latest techniques in deep learning and representation learning, focusing on supervised and unsupervised deep learning, embedding methods, metric learning, convolutional and recurrent nets, with applications to computer vision, natural language understanding, and speech recognition. The prerequisites include: DS-GA 1001 Intro to Data Science or a graduate-level machine learning course.

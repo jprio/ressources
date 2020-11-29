@@ -1,8 +1,15 @@
 # Quantum computing
 
+* [Introduction to quantum computing: Basic quantum theory.](http://akyrillidis.github.io/notes/quant_post_4) : This is part of a (probably) long list of posts regarding quantum computing. In this post, we will talk about quantum states, observables, what it means to measure a quantum state, and the dynamics of quantum states.
+* [Get started with IBM Quantum Experience](https://quantum-computing.ibm.com/docs/) : Develop workflows that incorporate both quantum circuits and classical computations, and quickly build quantum applications at scale… all with the systems, tools, and services available in IBM Quantum Experience.
+* [How Do I Build a Quantum Computer in My House?](https://medium.com/qiskit/how-do-i-build-a-quantum-computer-in-my-house-1c7e9dc0c242) : Open-access frameworks like Qiskit let you program a quantum computer over the cloud, and you’re an enterprising person who has a familiarity with quantum computers. So, if you happen to find yourself in need of something to do, how about trying to program a quantum computer that you built yourself?
+* [Introduction to Coding Quantum Algorithms:A Tutorial Series Using Qiskit](https://arxiv.org/pdf/1903.04359.pdf) : As the field of Quantum Computing continues to grow, so too has the general public’s interest in testing some of the publicly available quantum computers. However, many might find learning all of the supplementary information that goes into quantum algorithms to be a daunting task, and become discouraged. This tutorial is a series of lessons, aimed to teach the basics of quantum algorithms to those who may have little to no background in quantum physics and/or minimal knowledge of coding in python. Each lesson covers select physics/coding topics needed for writing quantum algorithms, eventually building up a toolset for tackling more and more challenging quantum algorithms. This tutorial series is designed to provide readers from any background with two services: 1) A concise and thorough understanding of some of the most popular/academically important quantum algorithms. 2) A fluent understanding of how to write code for quantum algorithms, using IBM’s publicly available Qiskit.
+* [The Deutsch-Jozsa Algorithm](https://medium.com/datadriveninvestor/the-deutsch-jozsa-algorithm-f8611e2ff3ff) : The Math, the Code, and Why It Works
+* 
+
 # Maths, probabilités
 
-# Deep learning
+# Deep learning - IA - Machine learning
 * [Deep Learning with PyTorch: Zero to GANs](https://jovian.ai/learn/deep-learning-with-pytorch-zero-to-gans)
 "Deep Learning with PyTorch: Zero to GANs" is a beginner-friendly online course offering a practical and coding-focused introduction to deep learning using the PyTorch framework.
 * Fundamentals of Machine Learning
@@ -12,8 +19,18 @@ This is part one in a series of topics I consider fundamental to machine learnin
 Maximum Likelihood Estimation (MLE) is a frequentist approach for estimating the parameters of a model given some observed data.
   * [Information Theory](https://towardsdatascience.com/fundamentals-of-machine-learning-part-3-b305933f00cd)
 The purpose of this post is to cover important concepts from Information Theory and describe how they are used in machine learning. Many of the topics here will build on concepts we discussed in the post on Probability Theory, such as independence and expectation.
+* [Interpretability of Machine Learning models](https://medium.com/analytics-vidhya/interpretability-of-machine-learning-models-9787cf8a3789)
 
 # Livres
+
+[SutBar] Richard S. Sutton and Andrew G. Barto, Reinforcement Learning: An Introduction (2nd edition, 2018) [freely available online](http://incompleteideas.net/book/the-book-2nd.html)
+[Sze] Csaba Szepesvari, Algorithms for Reinforcement Learning [freely available online ](https://sites.ualberta.ca/~szepesva/RLBook.html)
+[SigBuf] Olivier Sigaud and Olivier Buffet (editors), Markov Decision Processes in Artificial Intelligence (2010) [freely available online](https://zodml.org/sites/default/files/Markov_Decision_Processes_and_Artificial_Intelligence.pdf)
+[GBC] Ian Goodfellow, Yoshua Bengio and Aaron Courville, Deep Learning (2016) freely available online
+[Put] Martin L. Puterman, Markov Decision Processes: Discrete Stochastic Dynamic Programming (2008)
+[Ber] Dimitri P. Bertsekas, Dynamic Programming and Optimal Control (2017)
+[Pow] Warren B. Powell, Approximate Dynamic Programming: Solving the Curses of Dimensionality (2015)
+[RusNor] Stuart Russell and Peter Norvig, Artificial Intelligence: A Modern Approach (3rd Edition) (2010)
 
 # MOOCs
 * [Machine Learning par Université de Stanford (Andrew Ng)[https://www.coursera.org/learn/machine-learning/home/welcome) : The purpose of this post is to cover important concepts from Information Theory and describe how they are used in machine learning. Many of the topics here will build on concepts we discussed in the post on Probability Theory, such as independence and expectation.
@@ -29,3 +46,8 @@ Machine Learning is a graduate-level course covering the area of Artificial Inte
 The first part of the course covers Supervised Learning, a machine learning task that makes it possible for your phone to recognize your voice, your email to filter spam, and for computers to learn a bunch of other cool stuff.
 In part two, you will learn about Unsupervised Learning. Ever wonder how Netflix can predict what movies you'll like? Or how Amazon knows what you want to buy before you do? Such answers can be found in this section!
 * [Reinforcement Learning byGeorgia Institute of Technology Offered at Georgia Tech as CS 8803](https://www.udacity.com/course/reinforcement-learning--ud600) : You should take this course if you have an interest in machine learning and the desire to engage with it from a theoretical perspective. Through a combination of classic papers and more recent work, you will explore automated decision-making from a computer-science perspective. You will examine efficient algorithms, where they exist, for single-agent and multi-agent planning as well as approaches to learning near-optimal decisions from experience. At the end of the course, you will replicate a result from a published paper in reinforcement learning.
+* [Interpretability and Explainability in Machine Learning](https://interpretable-ml-class.github.io/) : As machine learning models are increasingly being employed to aid decision makers in high-stakes settings such as healthcare and criminal justice, it is important to ensure that the decision makers (end users) correctly understand and consequently trust the functionality of these models. This graduate level course aims to familiarize students with the recent advances in the emerging field of interpretable and explainable ML. In this course, we will review seminal position papers of the field, understand the notion of model interpretability and explainability, discuss in detail different classes of interpretable models (e.g., prototype based approaches, sparse linear models, rule based techniques, generalized additive models), post-hoc explanations (black-box explanations including counterfactual explanations and saliency maps), and explore the connections between interpretability and causality, debugging, and fairness. The course will also emphasize on various applications which can immensely benefit from model interpretability including criminal justice and healthcare.
+* [Machine Learning (MIT)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-867-machine-learning-fall-2006/syllabus/)
+* [yandexdataschool Practical_RL](https://github.com/yandexdataschool/Practical_RL)
+* [MIT 6.S191 Introduction to Deep Learning](http://introtodeeplearning.com/) : MIT's introductory course on deep learning methods with applications to computer vision, natural language processing, biology, and more! Students will gain foundational knowledge of deep learning algorithms and get practical experience in building neural networks in TensorFlow. Course concludes with a project proposal competition with feedback from staff and panel of industry sponsors. Prerequisites assume calculus (i.e. taking derivatives) and linear algebra (i.e. matrix multiplication), we'll try to explain everything else along the way! Experience in Python is helpful but not necessary. Listeners are welcome!
+* [Introduction to Quantum Computing and Quantum Hardware](https://qiskit.org/learn/intro-qc-qh/?learnLevel=All%20resources) : This course is an introduction to the world of quantum computing, with an exploration of some of the key quantum algorithms and their implementations using quantum circuits, as well as the quantum hardware that is designed to run these algorithms. The course was first offered during the Qiskit Global Summer School in July 2020 as a two-week intensive summer school.

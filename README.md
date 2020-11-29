@@ -23,14 +23,14 @@ The purpose of this post is to cover important concepts from Information Theory 
 
 # Livres
 
-[SutBar] Richard S. Sutton and Andrew G. Barto, Reinforcement Learning: An Introduction (2nd edition, 2018) [freely available online](http://incompleteideas.net/book/the-book-2nd.html)
-[Sze] Csaba Szepesvari, Algorithms for Reinforcement Learning [freely available online ](https://sites.ualberta.ca/~szepesva/RLBook.html)
-[SigBuf] Olivier Sigaud and Olivier Buffet (editors), Markov Decision Processes in Artificial Intelligence (2010) [freely available online](https://zodml.org/sites/default/files/Markov_Decision_Processes_and_Artificial_Intelligence.pdf)
-[GBC] Ian Goodfellow, Yoshua Bengio and Aaron Courville, Deep Learning (2016) freely available online
-[Put] Martin L. Puterman, Markov Decision Processes: Discrete Stochastic Dynamic Programming (2008)
-[Ber] Dimitri P. Bertsekas, Dynamic Programming and Optimal Control (2017)
-[Pow] Warren B. Powell, Approximate Dynamic Programming: Solving the Curses of Dimensionality (2015)
-[RusNor] Stuart Russell and Peter Norvig, Artificial Intelligence: A Modern Approach (3rd Edition) (2010)
+* [SutBar] Richard S. Sutton and Andrew G. Barto, Reinforcement Learning: An Introduction (2nd edition, 2018) [freely available online](http://incompleteideas.net/book/the-book-2nd.html)
+* [Sze] Csaba Szepesvari, Algorithms for Reinforcement Learning [freely available online ](https://sites.ualberta.ca/~szepesva/RLBook.html)
+* [SigBuf] Olivier Sigaud and Olivier Buffet (editors), Markov Decision Processes in Artificial Intelligence (2010) [freely available online](https://zodml.org/sites/default/files/Markov_Decision_Processes_and_Artificial_Intelligence.pdf)
+* [GBC] Ian Goodfellow, Yoshua Bengio and Aaron Courville, Deep Learning (2016) freely available online
+* [Put] Martin L. Puterman, Markov Decision Processes: Discrete Stochastic Dynamic Programming (2008)
+* [Ber] Dimitri P. Bertsekas, Dynamic Programming and Optimal Control (2017)
+* [Pow] Warren B. Powell, Approximate Dynamic Programming: Solving the Curses of Dimensionality (2015)
+* [RusNor] Stuart Russell and Peter Norvig, Artificial Intelligence: A Modern Approach (3rd Edition) (2010)
 
 # MOOCs
 * [Machine Learning par Université de Stanford (Andrew Ng)[https://www.coursera.org/learn/machine-learning/home/welcome) : The purpose of this post is to cover important concepts from Information Theory and describe how they are used in machine learning. Many of the topics here will build on concepts we discussed in the post on Probability Theory, such as independence and expectation.

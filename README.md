@@ -6,7 +6,7 @@
 * [Introduction to Coding Quantum Algorithms:A Tutorial Series Using Qiskit](https://arxiv.org/pdf/1903.04359.pdf) : As the field of Quantum Computing continues to grow, so too has the general public’s interest in testing some of the publicly available quantum computers. However, many might find learning all of the supplementary information that goes into quantum algorithms to be a daunting task, and become discouraged. This tutorial is a series of lessons, aimed to teach the basics of quantum algorithms to those who may have little to no background in quantum physics and/or minimal knowledge of coding in python. Each lesson covers select physics/coding topics needed for writing quantum algorithms, eventually building up a toolset for tackling more and more challenging quantum algorithms. This tutorial series is designed to provide readers from any background with two services: 1) A concise and thorough understanding of some of the most popular/academically important quantum algorithms. 2) A fluent understanding of how to write code for quantum algorithms, using IBM’s publicly available Qiskit.
 * [The Deutsch-Jozsa Algorithm](https://medium.com/datadriveninvestor/the-deutsch-jozsa-algorithm-f8611e2ff3ff) : The Math, the Code, and Why It Works
 * [Quantum Error Correction using Qiskit](https://medium.com/swlh/quantum-error-correction-using-qiskit-1d6b708490b9)
-* 
+* [Grokking Quantum Computing — A Quirky Guide for Curious People](https://towardsdatascience.com/grokking-quantum-computing-a-quirky-guide-for-curious-people-8cea6eb67803)
 
 # Outils en ligne
 * [Tensorflow playground](playground.tensorflow)

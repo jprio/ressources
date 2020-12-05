@@ -63,3 +63,9 @@ In part two, you will learn about Unsupervised Learning. Ever wonder how Netflix
 * [Machine Learning University](https://www.youtube.com/channel/UC12LqyqTQYbXatYS9AA7Nuw)
 * [Amazon’s own ‘Machine Learning University](https://aws.amazon.com/training/learn-about/machine-learning/)
 * [Deep Learning (Yann Le Cun](https://atcold.github.io/pytorch-Deep-Learning/) : This course concerns the latest techniques in deep learning and representation learning, focusing on supervised and unsupervised deep learning, embedding methods, metric learning, convolutional and recurrent nets, with applications to computer vision, natural language understanding, and speech recognition. The prerequisites include: DS-GA 1001 Intro to Data Science or a graduate-level machine learning course.
+*[Full stack deep learning](https://course.fullstackdeeplearning.com/) : There are many great courses to learn how to train deep neural networks. However, training the model is just one part of shipping a deep learning project. This course teaches full-stack production deep learning:
+Formulating the problem and estimating project cost
+Finding, cleaning, labeling, and augmenting data
+Picking the right framework and compute infrastructure
+Troubleshooting training and ensuring reproducibility
+Deploying the model at scale

@@ -8,6 +8,9 @@
 * [Quantum Error Correction using Qiskit](https://medium.com/swlh/quantum-error-correction-using-qiskit-1d6b708490b9)
 * [Grokking Quantum Computing — A Quirky Guide for Curious People](https://towardsdatascience.com/grokking-quantum-computing-a-quirky-guide-for-curious-people-8cea6eb67803)
 
+# Séries temporelles
+* [Time Series and How to Detect Anomalies in Them part I, II, III](https://becominghuman.ai/time-series-and-how-to-detect-anomalies-in-them-part-i-7f9f6c2ad32e)
+
 # Outils en ligne
 * [Tensorflow playground](playground.tensorflow)
 

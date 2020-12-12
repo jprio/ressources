@@ -44,7 +44,7 @@ Now that we can deal with multiple qubits, the quantum world is our oyster. This
 Non-transitive project-based learning
 Lab 4 of Introduction to Quantum Computing
 
-Week 5
+  * Week 5
 This week you will fill your tool box with the canonical gate set and learn how to quickly recognise their utility and tricks for working with them.
 Shhhh… the quantum cheat sheet
 Lecture 5 Introduction to Quantum Computing
@@ -53,7 +53,7 @@ Practicing calculations and internalising some common tricks and identities is c
 All the quantum gate identities fit for print
 Lab 5 of Introduction to Quantum Computing.
 
-Week 6
+  * Week 6
 This week you will be introduced to the first two canonical quantum protocols: superdense coding and teleportation. These demonstrate that entanglement can be used as a resource for some tasks. You’ll have your first taste as designing protocols as well as analysing them.
 My first quantum protocol
 Lecture 6 of Introduction to Quantum Computing.
@@ -62,12 +62,12 @@ In Lecture 6 you were introduced to superdense coding and quantum teleportation.
 Superdense coding and quantum teleportation in three quantum programming languages
 Lab 6 of Introduction to Quantum Computing
 
-Week 7
+  * Week 7
 We will continue the theme of quantum advantages this week by studying the Deutsch-Jozsa algorithm. This algorithm also deterministically solves a problem which is impossible to solve via classical means with the same number of resources. This will be your first taste of a computational speed-up provided by quantum computers.
 Quansulting the oracle
 Lecture 7 of Introduction to Quantum Computing
 
-Week 8
+  * Week 8
 This week you will learn about the high-level structure of quantum algorithms and some primitives such as superposition, digital logic, phase logic, and uncomputation. With these you’ll at least be able to fake it until you make it!
 Quantum Algorithmic Structures
 Lecture 8 of Introduction to Quantum Computing.

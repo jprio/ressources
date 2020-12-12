@@ -8,15 +8,7 @@
 * [Quantum Error Correction using Qiskit](https://medium.com/swlh/quantum-error-correction-using-qiskit-1d6b708490b9)
 * [Grokking Quantum Computing — A Quirky Guide for Curious People](https://towardsdatascience.com/grokking-quantum-computing-a-quirky-guide-for-curious-people-8cea6eb67803)
 * [Introduction to Quantum Computing](https://csferrie.medium.com/qubits-qubits-qubits-more-is-different-8c2a5f9686c0)
-  * Week 1
-Lecture 1 introduces the necessary components of classical computing and provides some historical overview of the field of quantum computing. We also see how different types of information processes has different power.
-The Quantum Hypothesis
-Lecture 1 of Introduction to Quantum Computing
-
-Lab 1 is optional fun where we read Quantum Computing for Babies and have a talk from Strangeworks, a quantum computing start-up company.
-Hello Quantum Worlds
-Lab 1 of Introduction to Quantum Computing
-
+  * Week 1 [The Quantum Hypothesis](https://csferrie.medium.com/introduction-to-quantum-computing-49b31b96e70f) : Lecture 1 introduces the necessary components of classical computing and provides some historical overview of the field of quantum computing. We also see how different types of information processes has different power.
   * Week 2
 In Lecture 2 you will be introduced to qubits and the mathematical tools needed to work with them. Dirac notation is a powerful calculational tool to analyse quantum circuits, and perform linear algebraic manipulations more generally. We will learn about quantum measurement and what it means to “look at” a qubit.
 What is a qubit?

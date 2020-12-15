@@ -66,7 +66,7 @@ Lecture 8 of Introduction to Quantum Computing.
 * [Leetcode](https://leetcode.com/problemset/all/)
 # Séries temporelles
 * [Time Series and How to Detect Anomalies in Them part I, II, III](https://becominghuman.ai/time-series-and-how-to-detect-anomalies-in-them-part-i-7f9f6c2ad32e)
-
+* [How to use Deep Learning for Time Series Forecasting](https://towardsdatascience.com/how-to-use-deep-learning-for-time-series-forecasting-3f8a399cf205)
 # Outils en ligne
 * [Tensorflow playground](playground.tensorflow)
 

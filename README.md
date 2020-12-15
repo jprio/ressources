@@ -69,7 +69,7 @@ Lecture 8 of Introduction to Quantum Computing.
 * [How to use Deep Learning for Time Series Forecasting](https://towardsdatascience.com/how-to-use-deep-learning-for-time-series-forecasting-3f8a399cf205)
 # Outils en ligne
 * [Tensorflow playground](playground.tensorflow)
-
+* [Weight and biase](https://wandb.ai/) : Developer tools for machine learning. Experiment tracking, hyperparameter optimization, model and dataset versioning
 
 # Maths, probabilités
 * [The statistical foundations of machine learning](https://towardsdatascience.com/the-statistical-foundations-of-machine-learning-973c356a95f)

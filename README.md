@@ -59,8 +59,11 @@ Lecture 8 of Introduction to Quantum Computing.
 
 # Frameworks Python
 * Pandas
- * [20 Pandas Functions That Will Boost Your Data Analysis Process](https://towardsdatascience.com/20-pandas-functions-that-will-boost-your-data-analysis-process-f5dfdb2f9e05)
+  * [20 Pandas Functions That Will Boost Your Data Analysis Process](https://towardsdatascience.com/20-pandas-functions-that-will-boost-your-data-analysis-process-f5dfdb2f9e05)
 
+# Code
+* [HackerRank](https://www.hackerrank.com/dashboard)
+* [Leetcode](https://leetcode.com/problemset/all/)
 # Séries temporelles
 * [Time Series and How to Detect Anomalies in Them part I, II, III](https://becominghuman.ai/time-series-and-how-to-detect-anomalies-in-them-part-i-7f9f6c2ad32e)
 

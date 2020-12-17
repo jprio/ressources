@@ -60,6 +60,9 @@ Lecture 8 of Introduction to Quantum Computing.
 # Frameworks Python
 * Pandas
   * [20 Pandas Functions That Will Boost Your Data Analysis Process](https://towardsdatascience.com/20-pandas-functions-that-will-boost-your-data-analysis-process-f5dfdb2f9e05)
+  
+# Dataviz
+* [The best tools for Dashboarding in Python](https://medium.com/spatial-data-science/the-best-tools-for-dashboarding-in-python-b22975cb4b83)
 
 # Code
 * [HackerRank](https://www.hackerrank.com/dashboard)

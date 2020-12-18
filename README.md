@@ -60,6 +60,7 @@ Lecture 8 of Introduction to Quantum Computing.
 * Saptashwa Bhattacharyya
   * [Quantum Computing: Understanding Simple Quantum Gates Using Qiskit](https://medium.com/a-bit-of-qubit/quantum-computing-understanding-simple-quantum-gates-using-qiskit-6bb96f52793b) : Getting Started with Quantum Computing using Python
   * [Quantum Computing: Bell State and Entanglement with Qiskit](https://medium.com/a-bit-of-qubit/quantum-computing-bell-state-and-entanglement-with-qiskit-621489fb36bd) : Entangled Qubits with Hadamard Gate and CNOT Gate
+  * [Simple Quantum Circuits to Understand Multiple Qubit States](https://medium.com/a-bit-of-qubit/simple-quantum-circuits-to-understand-multiple-qubit-states-79e576a9d0fe) : Quantum Circuits and Bloch Sphere
 
 
 * [Intrication Quantique - epfl](https://documents.epfl.ch/groups/i/ip/ipg/www/2013-2014/Traitement_Quantique_de_l_Information/chapter-5-2013.pdf)

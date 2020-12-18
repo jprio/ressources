@@ -57,6 +57,12 @@ This week you will learn about the high-level structure of quantum algorithms an
 Quantum Algorithmic Structures
 Lecture 8 of Introduction to Quantum Computing.
 
+* Saptashwa Bhattacharyya
+  * [Quantum Computing: Understanding Simple Quantum Gates Using Qiskit](https://medium.com/a-bit-of-qubit/quantum-computing-understanding-simple-quantum-gates-using-qiskit-6bb96f52793b) : Getting Started with Quantum Computing using Python
+  * [Quantum Computing: Bell State and Entanglement with Qiskit](https://medium.com/a-bit-of-qubit/quantum-computing-bell-state-and-entanglement-with-qiskit-621489fb36bd) : Entangled Qubits with Hadamard Gate and CNOT Gate
+
+
+* [Intrication Quantique - epfl](https://documents.epfl.ch/groups/i/ip/ipg/www/2013-2014/Traitement_Quantique_de_l_Information/chapter-5-2013.pdf)
 # Frameworks Python
 * Pandas
   * [20 Pandas Functions That Will Boost Your Data Analysis Process](https://towardsdatascience.com/20-pandas-functions-that-will-boost-your-data-analysis-process-f5dfdb2f9e05)

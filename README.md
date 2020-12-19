@@ -142,3 +142,4 @@ In part two, you will learn about Unsupervised Learning. Ever wonder how Netflix
   * Troubleshooting training and ensuring reproducibility
   * Deploying the model at scale
 * [Introduction to Computational Thinking with Julia, with Applications to Modeling the COVID-19 Pandemic](https://ocw.mit.edu/courses/mathematics/18-s190-introduction-to-computational-thinking-with-julia-with-applications-to-modeling-the-covid-19-pandemic-spring-2020/index.htm) : This half-semester course introduces computational thinking through applications of data science, artificial intelligence, and mathematical models using the Julia programming language. This Spring 2020 version is a fast-tracked curriculum adaptation to focus on applications to COVID-19 responses.
+* [Data Visualization using Python](https://olympus.greatlearning.in/courses/10900)

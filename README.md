@@ -64,9 +64,9 @@ Lecture 8 of Introduction to Quantum Computing.
 * [Frank Zickert sur Medium](https://medium.com/@fzickert)
 * [Intrication Quantique - epfl](https://documents.epfl.ch/groups/i/ip/ipg/www/2013-2014/Traitement_Quantique_de_l_Information/chapter-5-2013.pdf)
 * Quantum Teleportation from scratch to magic. Edwin Agnew
- *  [Part 1 — The What?](https://edwinagnew1.medium.com/quantum-teleportation-from-scratch-to-magic-part-1-the-what-e51b543ff036)
- *  [Part 2 — Doing It on a Real Device](https://medium.com/swlh/quantum-teleportation-from-scratch-to-magic-part-2-doing-it-on-a-real-device-25be7386a158)
- *  [Part 3 — A new theory of time?](https://edwinagnew1.medium.com/quantum-teleportation-from-scratch-to-magic-part-3-a-new-theory-of-time-feb8684d952b)
+  * [Part 1 — The What?](https://edwinagnew1.medium.com/quantum-teleportation-from-scratch-to-magic-part-1-the-what-e51b543ff036)
+  * [Part 2 — Doing It on a Real Device](https://medium.com/swlh/quantum-teleportation-from-scratch-to-magic-part-2-doing-it-on-a-real-device-25be7386a158)
+  * [Part 3 — A new theory of time?](https://edwinagnew1.medium.com/quantum-teleportation-from-scratch-to-magic-part-3-a-new-theory-of-time-feb8684d952b)
  
 # Frameworks Python
 * Pandas

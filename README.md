@@ -62,8 +62,12 @@ Lecture 8 of Introduction to Quantum Computing.
   * [Quantum Computing: Bell State and Entanglement with Qiskit](https://medium.com/a-bit-of-qubit/quantum-computing-bell-state-and-entanglement-with-qiskit-621489fb36bd) : Entangled Qubits with Hadamard Gate and CNOT Gate
   * [Simple Quantum Circuits to Understand Multiple Qubit States](https://medium.com/a-bit-of-qubit/simple-quantum-circuits-to-understand-multiple-qubit-states-79e576a9d0fe) : Quantum Circuits and Bloch Sphere
 * [Frank Zickert sur Medium](https://medium.com/@fzickert)
-
 * [Intrication Quantique - epfl](https://documents.epfl.ch/groups/i/ip/ipg/www/2013-2014/Traitement_Quantique_de_l_Information/chapter-5-2013.pdf)
+* Quantum Teleportation from scratch to magic. Edwin Agnew
+ *  [Part 1 — The What?](https://edwinagnew1.medium.com/quantum-teleportation-from-scratch-to-magic-part-1-the-what-e51b543ff036)
+ *  [Part 2 — Doing It on a Real Device](https://medium.com/swlh/quantum-teleportation-from-scratch-to-magic-part-2-doing-it-on-a-real-device-25be7386a158)
+ *  [Part 3 — A new theory of time?](https://edwinagnew1.medium.com/quantum-teleportation-from-scratch-to-magic-part-3-a-new-theory-of-time-feb8684d952b)
+ 
 # Frameworks Python
 * Pandas
   * [20 Pandas Functions That Will Boost Your Data Analysis Process](https://towardsdatascience.com/20-pandas-functions-that-will-boost-your-data-analysis-process-f5dfdb2f9e05)

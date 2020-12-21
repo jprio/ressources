@@ -119,6 +119,10 @@ The purpose of this post is to cover important concepts from Information Theory 
 * [RusNor] Stuart Russell and Peter Norvig, Artificial Intelligence: A Modern Approach (3rd Edition) (2010)
 * [https://statisticswithjulia.org/StatisticsWithJuliaDRAFT.pdf](Statistics with Julia: Fundamentals for Data Science, Machine Learning and Artificial Intelligence.)
 
+# Datasets & notebooks
+* [Google datasets search](https://datasetsearch.research.google.com/)
+* [Google AI Hub](https://aihub.cloud.google.com/u/0/)
+
 # MOOCs
 * [Machine Learning par Université de Stanford (Andrew Ng)[https://www.coursera.org/learn/machine-learning/home/welcome) : The purpose of this post is to cover important concepts from Information Theory and describe how they are used in machine learning. Many of the topics here will build on concepts we discussed in the post on Probability Theory, such as independence and expectation.
 * [Construire un ordinateur moderne à partir de principes de base : de Nand à Tetris (cours centré sur un projet)](https://www.coursera.org/learn/build-a-computer) : In this project-centered course* you will build a modern computer system, from the ground up. We’ll divide this fascinating journey into six hands-on projects that will take you from constructing elementary logic gates all the way through creating a fully functioning general purpose computer. In the process, you will learn - in the most direct and constructive way - how computers work, and how they are designed.

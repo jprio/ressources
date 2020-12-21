@@ -103,6 +103,7 @@ The purpose of this post is to cover important concepts from Information Theory 
 * [Cheat Sheets for Machine Learning Interview Topics](https://medium.com/swlh/cheat-sheets-for-machine-learning-interview-topics-51c2bc2bab4f)
 * [Training a Single Perceptron AND ITS LEARNING RULES DERIVED FROM SCRATCH](https://levelup.gitconnected.com/training-a-single-perceptron-405026d61f4b)
 * [A beginner’s guide to dimensionality reduction in Machine Learning](https://towardsdatascience.com/dimensionality-reduction-for-machine-learning-80a46c2ebb7e)
+* [Outlier or Inlier: Types of Algorithms to Detect Anomalous Behavior](https://towardsdatascience.com/outlier-or-inlier-types-of-algorithms-to-detect-anomalous-behavior-ac15576823da)
 
 #Computer vision
 * [CNN Convolutional Layer in Depth](https://becominghuman.ai/convolutional-layer-ab60395b8b27)

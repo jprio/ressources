@@ -71,6 +71,8 @@ Lecture 8 of Introduction to Quantum Computing.
 # Frameworks Python
 * Pandas
   * [20 Pandas Functions That Will Boost Your Data Analysis Process](https://towardsdatascience.com/20-pandas-functions-that-will-boost-your-data-analysis-process-f5dfdb2f9e05)
+  * [H3: Uber’s Hexagonal Hierarchical Spatial Index](https://eng.uber.com/h3/) : Grid systems are critical to analyzing large spatial data sets, partitioning areas of the Earth into identifiable grid cells.
+
   
 # Dataviz
 * [The best tools for Dashboarding in Python](https://medium.com/spatial-data-science/the-best-tools-for-dashboarding-in-python-b22975cb4b83)
@@ -78,7 +80,8 @@ Lecture 8 of Introduction to Quantum Computing.
 # Code
 * [HackerRank](https://www.hackerrank.com/dashboard)
 * [Leetcode](https://leetcode.com/problemset/all/)
-# Séries temporelles
+# Séries temporellH3: Uber’s Hexagonal Hierarchical Spatial Indexehttps://eng.uber.com/h3/s : Grid systems are critical to analyzing large spatial data sets, partitioning areas of the Earth into identifiable grid cells.
+
 * [Time Series and How to Detect Anomalies in Them part I, II, III](https://becominghuman.ai/time-series-and-how-to-detect-anomalies-in-them-part-i-7f9f6c2ad32e)
 * [How to use Deep Learning for Time Series Forecasting](https://towardsdatascience.com/how-to-use-deep-learning-for-time-series-forecasting-3f8a399cf205)
 # Outils en ligne

@@ -110,8 +110,9 @@ The purpose of this post is to cover important concepts from Information Theory 
 * [A beginner’s guide to dimensionality reduction in Machine Learning](https://towardsdatascience.com/dimensionality-reduction-for-machine-learning-80a46c2ebb7e)
 * [Outlier or Inlier: Types of Algorithms to Detect Anomalous Behavior](https://towardsdatascience.com/outlier-or-inlier-types-of-algorithms-to-detect-anomalous-behavior-ac15576823da)
 
-#Computer vision
+# Computer vision
 * [CNN Convolutional Layer in Depth](https://becominghuman.ai/convolutional-layer-ab60395b8b27)
+* [Sparse R-CNN: the New Detector Type](https://medium.com/labelme/sparse-r-cnn-the-new-detector-type-174d2507d00)
 # Livres
 
 * [SutBar] Richard S. Sutton and Andrew G. Barto, Reinforcement Learning: An Introduction (2nd edition, 2018) [freely available online](http://incompleteideas.net/book/the-book-2nd.html)

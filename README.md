@@ -1,5 +1,6 @@
 # Quantum computing
 
+* [Jonathan Hui - Quantum Computing series](https://jonathan-hui.medium.com/qc-quantum-computing-series-10ddd7977abd)
 * [Introduction to quantum computing: Basic quantum theory.](http://akyrillidis.github.io/notes/quant_post_4) : This is part of a (probably) long list of posts regarding quantum computing. In this post, we will talk about quantum states, observables, what it means to measure a quantum state, and the dynamics of quantum states.
 * [Get started with IBM Quantum Experience](https://quantum-computing.ibm.com/docs/) : Develop workflows that incorporate both quantum circuits and classical computations, and quickly build quantum applications at scale… all with the systems, tools, and services available in IBM Quantum Experience.
 * [How Do I Build a Quantum Computer in My House?](https://medium.com/qiskit/how-do-i-build-a-quantum-computer-in-my-house-1c7e9dc0c242) : Open-access frameworks like Qiskit let you program a quantum computer over the cloud, and you’re an enterprising person who has a familiarity with quantum computers. So, if you happen to find yourself in need of something to do, how about trying to program a quantum computer that you built yourself?

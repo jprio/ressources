@@ -76,6 +76,8 @@ Lecture 8 of Introduction to Quantum Computing.
 # Séries temporelles
 * [Time Series and How to Detect Anomalies in Them part I, II, III](https://becominghuman.ai/time-series-and-how-to-detect-anomalies-in-them-part-i-7f9f6c2ad32e)
 * [How to use Deep Learning for Time Series Forecasting](https://towardsdatascience.com/how-to-use-deep-learning-for-time-series-forecasting-3f8a399cf205)
+* [A Technical Guide on RNN/LSTM/GRU for Stock Price Prediction](https://medium.com/swlh/a-technical-guide-on-rnn-lstm-gru-for-stock-price-prediction-bce2f7f30346)
+
 # Outils en ligne
 * [Tensorflow playground](playground.tensorflow)
 * [Weight and biase](https://wandb.ai/) : Developer tools for machine learning. Experiment tracking, hyperparameter optimization, model and dataset versioning

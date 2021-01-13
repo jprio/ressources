@@ -116,7 +116,8 @@ The purpose of this post is to cover important concepts from Information Theory 
 * [Ber] Dimitri P. Bertsekas, Dynamic Programming and Optimal Control (2017)
 * [Pow] Warren B. Powell, Approximate Dynamic Programming: Solving the Curses of Dimensionality (2015)
 * [RusNor] Stuart Russell and Peter Norvig, Artificial Intelligence: A Modern Approach (3rd Edition) (2010)
-* [https://statisticswithjulia.org/StatisticsWithJuliaDRAFT.pdf](Statistics with Julia: Fundamentals for Data Science, Machine Learning and Artificial Intelligence.)
+* [Statistics with Julia: Fundamentals for Data Science, Machine Learning and Artificial Intelligence.](https://statisticswithjulia.org/StatisticsWithJuliaDRAFT.pdf)
+* [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 
 # Datasets & notebooks
 * [Google datasets search](https://datasetsearch.research.google.com/)

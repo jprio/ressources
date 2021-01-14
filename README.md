@@ -68,6 +68,7 @@ Lecture 8 of Introduction to Quantum Computing.
 # Dataviz
 * [The best tools for Dashboarding in Python](https://medium.com/spatial-data-science/the-best-tools-for-dashboarding-in-python-b22975cb4b83)
 * [The Data Visualisation Catalogue](https://datavizcatalogue.com/)
+* [Quickly share ML WebApps from Google Colab using ngrok for Free](https://towardsdatascience.com/quickly-share-ml-webapps-from-google-colab-using-ngrok-for-free-ae899ca2661a)
 
 # Code
 * [HackerRank](https://www.hackerrank.com/dashboard)

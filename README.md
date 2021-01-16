@@ -70,6 +70,7 @@ Lecture 8 of Introduction to Quantum Computing.
 * [The Data Visualisation Catalogue](https://datavizcatalogue.com/)
 * [Quickly share ML WebApps from Google Colab using ngrok for Free](https://towardsdatascience.com/quickly-share-ml-webapps-from-google-colab-using-ngrok-for-free-ae899ca2661a)
 * [Best Python Visualizations on Medium](https://towardsdatascience.com/best-python-visualizations-on-medium-a04921f61559)
+* [Datapane](https://docs.datapane.com/)
 
 # Code
 * [HackerRank](https://www.hackerrank.com/dashboard)

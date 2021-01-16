@@ -107,6 +107,7 @@ The purpose of this post is to cover important concepts from Information Theory 
 # Computer vision
 * [CNN Convolutional Layer in Depth](https://becominghuman.ai/convolutional-layer-ab60395b8b27)
 * [Sparse R-CNN: the New Detector Type](https://medium.com/labelme/sparse-r-cnn-the-new-detector-type-174d2507d00)
+* [12 Papers You Should Read to Understand Object Detection in the Deep Learning Era](https://towardsdatascience.com/12-papers-you-should-read-to-understand-object-detection-in-the-deep-learning-era-3390d4a28891)
 # Livres
 
 * [SutBar] Richard S. Sutton and Andrew G. Barto, Reinforcement Learning: An Introduction (2nd edition, 2018) [freely available online](http://incompleteideas.net/book/the-book-2nd.html)

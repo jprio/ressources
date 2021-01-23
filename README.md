@@ -109,6 +109,10 @@ The purpose of this post is to cover important concepts from Information Theory 
 * [A beginner’s guide to dimensionality reduction in Machine Learning](https://towardsdatascience.com/dimensionality-reduction-for-machine-learning-80a46c2ebb7e)
 * [Outlier or Inlier: Types of Algorithms to Detect Anomalous Behavior](https://towardsdatascience.com/outlier-or-inlier-types-of-algorithms-to-detect-anomalous-behavior-ac15576823da)
 * [Neural Networks Visualized](https://levelup.gitconnected.com/neural-networks-visualized-6cc657f9d7c5)
+* David Stewart
+  * [Introduction to Neural Networks](https://towardsdatascience.com/simple-introduction-to-neural-networks-ac1d7c3d7a2c)
+  * [Intermediate Topics in Neural Networks](https://towardsdatascience.com/comprehensive-introduction-to-neural-network-architecture-c08c6d8e5d98)
+  * [Neural Network Optimization](https://towardsdatascience.com/neural-network-optimization-7ca72d4db3e0)
 
 # Computer vision
 * [CNN Convolutional Layer in Depth](https://becominghuman.ai/convolutional-layer-ab60395b8b27)

@@ -59,6 +59,7 @@ Lecture 8 of Introduction to Quantum Computing.
   * [Part 1 — The What?](https://edwinagnew1.medium.com/quantum-teleportation-from-scratch-to-magic-part-1-the-what-e51b543ff036)
   * [Part 2 — Doing It on a Real Device](https://medium.com/swlh/quantum-teleportation-from-scratch-to-magic-part-2-doing-it-on-a-real-device-25be7386a158)
   * [Part 3 — A new theory of time?](https://edwinagnew1.medium.com/quantum-teleportation-from-scratch-to-magic-part-3-a-new-theory-of-time-feb8684d952b)
+* [Understanding Quantum Computershttps://towardsdatascience.com/understanding-quantum-computers-ecb9d375b46f]()
  
 # Frameworks Python
 * Pandas

@@ -114,6 +114,7 @@ The purpose of this post is to cover important concepts from Information Theory 
   * [Intermediate Topics in Neural Networks](https://towardsdatascience.com/comprehensive-introduction-to-neural-network-architecture-c08c6d8e5d98)
   * [Neural Network Optimization](https://towardsdatascience.com/neural-network-optimization-7ca72d4db3e0)
   * [Advanced topcis n neural networks](https://towardsdatascience.com/advanced-topics-in-neural-networks-f27fbcc638ae)
+* [Use of Decision Trees and Random Forest in Machine Learning](https://medium.com/towards-artificial-intelligence/use-of-decision-trees-and-random-forest-in-machine-learning-1e35e737b638)
 
 # Computer vision
 * [CNN Convolutional Layer in Depth](https://becominghuman.ai/convolutional-layer-ab60395b8b27)

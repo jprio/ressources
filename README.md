@@ -113,6 +113,7 @@ The purpose of this post is to cover important concepts from Information Theory 
   * [Introduction to Neural Networks](https://towardsdatascience.com/simple-introduction-to-neural-networks-ac1d7c3d7a2c)
   * [Intermediate Topics in Neural Networks](https://towardsdatascience.com/comprehensive-introduction-to-neural-network-architecture-c08c6d8e5d98)
   * [Neural Network Optimization](https://towardsdatascience.com/neural-network-optimization-7ca72d4db3e0)
+  * [Advanced topcis n neural networks](https://towardsdatascience.com/advanced-topics-in-neural-networks-f27fbcc638ae)
 
 # Computer vision
 * [CNN Convolutional Layer in Depth](https://becominghuman.ai/convolutional-layer-ab60395b8b27)

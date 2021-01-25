@@ -61,6 +61,7 @@ Lecture 8 of Introduction to Quantum Computing.
   * [Part 3 — A new theory of time?](https://edwinagnew1.medium.com/quantum-teleportation-from-scratch-to-magic-part-3-a-new-theory-of-time-feb8684d952b)
 * [Understanding Quantum Computershttps://towardsdatascience.com/understanding-quantum-computers-ecb9d375b46f]()
 * [The Ket Quest (français](https://theketquest.home.blog/)
+* [Ebookpour comprendre l'informatique quantique](https://www.oezratty.net/wordpress/2018/ebook-pour-comprendre-informatique-quantique/)
  
 # Frameworks Python
 * Pandas

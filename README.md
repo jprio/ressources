@@ -170,3 +170,7 @@ In part two, you will learn about Unsupervised Learning. Ever wonder how Netflix
   * Deploying the model at scale
 * [Introduction to Computational Thinking with Julia, with Applications to Modeling the COVID-19 Pandemic](https://ocw.mit.edu/courses/mathematics/18-s190-introduction-to-computational-thinking-with-julia-with-applications-to-modeling-the-covid-19-pandemic-spring-2020/index.htm) : This half-semester course introduces computational thinking through applications of data science, artificial intelligence, and mathematical models using the Julia programming language. This Spring 2020 version is a fast-tracked curriculum adaptation to focus on applications to COVID-19 responses.
 * [Data Visualization using Python](https://olympus.greatlearning.in/courses/10900)
+
+# Questions entretien
+* [Popular Machine Learning Interview Questions](https://www.kdnuggets.com/2021/01/popular-machine-learning-interview-questions.html)
+* [Popular Machine Learning Interview Questions, part 2](https://www.kdnuggets.com/2021/01/popular-machine-learning-interview-questions-part2.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+kdnuggets-data-mining-analytics+%28KDnuggets%3A+Data+Mining+and+Analytics%29)

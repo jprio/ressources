@@ -176,3 +176,4 @@ In part two, you will learn about Unsupervised Learning. Ever wonder how Netflix
 # Questions entretien
 * [Popular Machine Learning Interview Questions](https://www.kdnuggets.com/2021/01/popular-machine-learning-interview-questions.html)
 * [Popular Machine Learning Interview Questions, part 2](https://www.kdnuggets.com/2021/01/popular-machine-learning-interview-questions-part2.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+kdnuggets-data-mining-analytics+%28KDnuggets%3A+Data+Mining+and+Analytics%29)
+* [Becoming a Data Professional In 2021](https://becominghuman.ai/becoming-a-data-professional-in-2021-71c886b59536)

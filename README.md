@@ -78,6 +78,7 @@ Lecture 8 of Introduction to Quantum Computing.
  * [Welcome to Datapane](https://docs.datapane.com/)
  * [Introduction to Datapane: A Python Library to Build Interactive Reports](https://towardsdatascience.com/introduction-to-datapane-a-python-library-to-build-interactive-reports-4593fd3cb9c8)
  * [Welcome to Datapane Public!](https://datapane.com/home/#)
+ * [Build A Web App To Interpret Your ML Predictions in Seconds With Shapash](https://pub.towardsai.net/build-a-web-app-to-interpret-your-ml-predictions-in-seconds-with-shapash-e2ddb2df4d02)
 
 # Code
 * [HackerRank](https://www.hackerrank.com/dashboard)

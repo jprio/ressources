@@ -81,6 +81,9 @@ Lecture 8 of Introduction to Quantum Computing.
 * [Build A Web App To Interpret Your ML Predictions in Seconds With Shapash](https://pub.towardsai.net/build-a-web-app-to-interpret-your-ml-predictions-in-seconds-with-shapash-e2ddb2df4d02)
  * [Datawiz Powerful Exploratory Data Analysis in just two lines of code](https://www.kdnuggets.com/2021/02/powerful-exploratory-data-analysis-sweetviz.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+kdnuggets-data-mining-analytics+%28KDnuggets%3A+Data+Mining+and+Analytics%29)
  * [Strzamlit](https://streamlit.io/)
+ * [Voila](https://github.com/voila-dashboards/voila) : Voilà turns Jupyter notebooks into standalone web applications. Unlike the usual HTML-converted notebooks, each user connecting to the Voilà tornado application gets a dedicated Jupyter kernel which can execute the callbacks to changes in Jupyter interactive widgets.
+
+
 
 # Code
 * [HackerRank](https://www.hackerrank.com/dashboard)

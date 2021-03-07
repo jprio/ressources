@@ -75,10 +75,11 @@ Lecture 8 of Introduction to Quantum Computing.
 * [Quickly share ML WebApps from Google Colab using ngrok for Free](https://towardsdatascience.com/quickly-share-ml-webapps-from-google-colab-using-ngrok-for-free-ae899ca2661a)
 * [Best Python Visualizations on Medium](https://towardsdatascience.com/best-python-visualizations-on-medium-a04921f61559)
 * Datapane
- * [Welcome to Datapane](https://docs.datapane.com/)
- * [Introduction to Datapane: A Python Library to Build Interactive Reports](https://towardsdatascience.com/introduction-to-datapane-a-python-library-to-build-interactive-reports-4593fd3cb9c8)
- * [Welcome to Datapane Public!](https://datapane.com/home/#)
- * [Build A Web App To Interpret Your ML Predictions in Seconds With Shapash](https://pub.towardsai.net/build-a-web-app-to-interpret-your-ml-predictions-in-seconds-with-shapash-e2ddb2df4d02)
+  * [Welcome to Datapane](https://docs.datapane.com/)
+  * [Introduction to Datapane: A Python Library to Build Interactive Reports](https://towardsdatascience.com/introduction-to-datapane-a-python-library-to-build-interactive-reports-4593fd3cb9c8)
+  * [Welcome to Datapane Public!](https://datapane.com/home/#)
+* [Build A Web App To Interpret Your ML Predictions in Seconds With Shapash](https://pub.towardsai.net/build-a-web-app-to-interpret-your-ml-predictions-in-seconds-with-shapash-e2ddb2df4d02)
+ * [Datawiz Powerful Exploratory Data Analysis in just two lines of code](https://www.kdnuggets.com/2021/02/powerful-exploratory-data-analysis-sweetviz.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+kdnuggets-data-mining-analytics+%28KDnuggets%3A+Data+Mining+and+Analytics%29)
 
 # Code
 * [HackerRank](https://www.hackerrank.com/dashboard)

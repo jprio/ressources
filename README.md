@@ -94,6 +94,7 @@ Lecture 8 of Introduction to Quantum Computing.
 * [How to use Deep Learning for Time Series Forecasting](https://towardsdatascience.com/how-to-use-deep-learning-for-time-series-forecasting-3f8a399cf205)
 * [A Technical Guide on RNN/LSTM/GRU for Stock Price Prediction](https://medium.com/swlh/a-technical-guide-on-rnn-lstm-gru-for-stock-price-prediction-bce2f7f30346)
 * [Predictive Analytics: Regression Analysis with LSTM, GRU and BiLSTM in TensorFlow](https://towardsdatascience.com/predictive-analysis-rnn-lstm-and-gru-to-predict-water-consumption-e6bb3c2b4b02)
+* [GluonTS](https://ts.gluon.ai/)
 
 # Outils en ligne
 * [Tensorflow playground](playground.tensorflow)

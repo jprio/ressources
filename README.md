@@ -149,6 +149,7 @@ The purpose of this post is to cover important concepts from Information Theory 
 # Datasets & notebooks
 * [Google datasets search](https://datasetsearch.research.google.com/)
 * [Google AI Hub](https://aihub.cloud.google.com/u/0/)
+* [Awsome project ideas](https://github.com/NirantK/awesome-project-ideas)
 
 # MOOCs
 * [Machine Learning par Université de Stanford (Andrew Ng)[https://www.coursera.org/learn/machine-learning/home/welcome) : The purpose of this post is to cover important concepts from Information Theory and describe how they are used in machine learning. Many of the topics here will build on concepts we discussed in the post on Probability Theory, such as independence and expectation.

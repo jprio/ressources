@@ -68,6 +68,7 @@ Lecture 8 of Introduction to Quantum Computing.
 * Pandas
   * [20 Pandas Functions That Will Boost Your Data Analysis Process](https://towardsdatascience.com/20-pandas-functions-that-will-boost-your-data-analysis-process-f5dfdb2f9e05)
   * [H3: Uber’s Hexagonal Hierarchical Spatial Index](https://eng.uber.com/h3/) : Grid systems are critical to analyzing large spatial data sets, partitioning areas of the Earth into identifiable grid cells.
+  * [How to group data by time intervals in Python Pandas?](https://towardsdatascience.com/how-to-group-data-by-different-time-intervals-using-python-pandas-eb7134f9b9b0)
  
 # Dataviz
 * [The best tools for Dashboarding in Python](https://medium.com/spatial-data-science/the-best-tools-for-dashboarding-in-python-b22975cb4b83)

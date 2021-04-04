@@ -97,6 +97,7 @@ Lecture 8 of Introduction to Quantum Computing.
 * [A Technical Guide on RNN/LSTM/GRU for Stock Price Prediction](https://medium.com/swlh/a-technical-guide-on-rnn-lstm-gru-for-stock-price-prediction-bce2f7f30346)
 * [Predictive Analytics: Regression Analysis with LSTM, GRU and BiLSTM in TensorFlow](https://towardsdatascience.com/predictive-analysis-rnn-lstm-and-gru-to-predict-water-consumption-e6bb3c2b4b02)
 * [GluonTS](https://ts.gluon.ai/)
+* [Can LSTMs Predict Stock Prices? — A Complete Analysis](https://medium.com/analytics-vidhya/can-lstms-predict-stock-prices-a-complete-analysis-part-1-d9409451216d)
 
 # Outils en ligne
 * [Tensorflow playground](playground.tensorflow)

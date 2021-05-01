@@ -87,6 +87,11 @@ Lecture 8 of Introduction to Quantum Computing.
  * [OSMnx: Python for Street Networks](https://geoffboeing.com/2016/11/osmnx-python-street-networks/)
  * [Shapash: Making Machine Learning Models Understandable](https://www.kdnuggets.com/2021/04/shapash-machine-learning-models-understandable.html)
  * [Charticulator](https://charticulator.com/app/index.html)
+ * [RAW graphs](https://app.rawgraphs.io/)
+ * [Chart Studio](https://chart-studio.plotly.com/)
+ * [Infogram](https://infogram.com/)
+ * [Datawrapper](https://app.datawrapper.de/)
+ * [8 Free Tools to Make Interactive Data Visualizations in 2021 — No Coding Required](https://towardsdatascience.com/8-free-tools-to-make-interactive-data-visualizations-in-2021-no-coding-required-2b2c6c564b5b)
 
 
 

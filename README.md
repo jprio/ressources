@@ -21,7 +21,7 @@ Superdense coding and quantum teleportation in three quantum programming languag
 Lab 6 of Introduction to Quantum Computing
   * Week 7 : We will continue the theme of quantum advantages this week by studying the Deutsch-Jozsa algorithm. This algorithm also deterministically solves a problem which is impossible to solve via classical means with the same number of resources. This will be your first taste of a computational speed-up provided by quantum computers.
   * Week 8 : This week you will learn about the high-level structure of quantum algorithms and some primitives such as superposition, digital logic, phase logic, and uncomputation. With these you’ll at least be able to fake it until you make it!
-
+* 
 * Saptashwa Bhattacharyya
   * [Quantum Computing: Understanding Simple Quantum Gates Using Qiskit](https://medium.com/a-bit-of-qubit/quantum-computing-understanding-simple-quantum-gates-using-qiskit-6bb96f52793b) : Getting Started with Quantum Computing using Python
   * [Quantum Computing: Bell State and Entanglement with Qiskit](https://medium.com/a-bit-of-qubit/quantum-computing-bell-state-and-entanglement-with-qiskit-621489fb36bd) : Entangled Qubits with Hadamard Gate and CNOT Gate
@@ -35,7 +35,8 @@ Lab 6 of Introduction to Quantum Computing
 * [Understanding Quantum Computershttps://towardsdatascience.com/understanding-quantum-computers-ecb9d375b46f]()
 * [The Ket Quest (français](https://theketquest.home.blog/)
 * [Ebookpour comprendre l'informatique quantique](https://www.oezratty.net/wordpress/2018/ebook-pour-comprendre-informatique-quantique/)
- 
+* [MOOC videolectures by Dr. Peter Wittek](https://www.youtube.com/channel/UCVROlDxzfRrlRexJvvCuQeg)
+
 # Frameworks Python
 * Pandas
   * [20 Pandas Functions That Will Boost Your Data Analysis Process](https://towardsdatascience.com/20-pandas-functions-that-will-boost-your-data-analysis-process-f5dfdb2f9e05)

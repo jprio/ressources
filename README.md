@@ -13,42 +13,14 @@
   * Week 1 [The Quantum Hypothesis](https://csferrie.medium.com/introduction-to-quantum-computing-49b31b96e70f) : Lecture 1 introduces the necessary components of classical computing and provides some historical overview of the field of quantum computing. We also see how different types of information processes has different power.
   * Week 2 [What is a qubit ?](https://medium.com/swlh/what-is-a-qubit-dbce0a341c6a) : In Lecture 2 you will be introduced to qubits and the mathematical tools needed to work with them. Dirac notation is a powerful calculational tool to analyse quantum circuits, and perform linear algebraic manipulations more generally. We will learn about quantum measurement and what it means to “look at” a qubit. But what does a qubit state “look like”? We will study the Bloch sphere representation of a qubit as well as complete the story of Dirac notation to see how all of the objects of study can be written in this picture.
   * Week 3 : In Lecture 3 we add new dimensions to our quantum information — exponentially many new dimensions! We look at how to represent multiple qubits and the new feature of entanglement.Today we will work through exercises to ensure you are a proficient user of these tools — that is, let’s make you a quantum mechanic!All the abstract nonsense you need to program a quantum computer.
-  * Week 4
-Before you are set loose on the quantum world, know that things are different in ways beyond just possessing more possibilities. Quantum information is severely restricted, as we will see in Lecture 4.
-No-gos, the quantum no-nos
-Lecture 4 of Welcome to Introduction to Quantum Computing.
-
-Now that we can deal with multiple qubits, the quantum world is our oyster. This week we used the full power of Dirac notation to prove some fundamental no-go theorems. But no-go theorems are a bit of a bummer — let’s create something!
-Non-transitive project-based learning
-Lab 4 of Introduction to Quantum Computing
-
-  * Week 5
-This week you will fill your tool box with the canonical gate set and learn how to quickly recognise their utility and tricks for working with them.
-Shhhh… the quantum cheat sheet
-Lecture 5 Introduction to Quantum Computing
-
+  * Week 4 : Before you are set loose on the quantum world, know that things are different in ways beyond just possessing more possibilities. Quantum information is severely restricted, as we will see in Lecture 4. Now that we can deal with multiple qubits, the quantum world is our oyster. This week we used the full power of Dirac notation to prove some fundamental no-go theorems. But no-go theorems are a bit of a bummer — let’s create something!
+  * Week 5 : This week you will fill your tool box with the canonical gate set and learn how to quickly recognise their utility and tricks for working with them.
 Practicing calculations and internalising some common tricks and identities is critical to analysing and creating quantum circuits. Here I provide some simple tasks and exercises to get you started.
-All the quantum gate identities fit for print
-Lab 5 of Introduction to Quantum Computing.
-
-  * Week 6
-This week you will be introduced to the first two canonical quantum protocols: superdense coding and teleportation. These demonstrate that entanglement can be used as a resource for some tasks. You’ll have your first taste as designing protocols as well as analysing them.
-My first quantum protocol
-Lecture 6 of Introduction to Quantum Computing.
-
-In Lecture 6 you were introduced to superdense coding and quantum teleportation. We looked at the circuits and even built them with the Quirk drag-and-drop simulator. In this Lab you will build both protocols in the three programming languages you were assigned in Lab 4.
+  * Week 6 : This week you will be introduced to the first two canonical quantum protocols: superdense coding and teleportation. These demonstrate that entanglement can be used as a resource for some tasks. You’ll have your first taste as designing protocols as well as analysing them. In Lecture 6 you were introduced to superdense coding and quantum teleportation. We looked at the circuits and even built them with the Quirk drag-and-drop simulator. In this Lab you will build both protocols in the three programming languages you were assigned in Lab 4.
 Superdense coding and quantum teleportation in three quantum programming languages
 Lab 6 of Introduction to Quantum Computing
-
-  * Week 7
-We will continue the theme of quantum advantages this week by studying the Deutsch-Jozsa algorithm. This algorithm also deterministically solves a problem which is impossible to solve via classical means with the same number of resources. This will be your first taste of a computational speed-up provided by quantum computers.
-Quansulting the oracle
-Lecture 7 of Introduction to Quantum Computing
-
-  * Week 8
-This week you will learn about the high-level structure of quantum algorithms and some primitives such as superposition, digital logic, phase logic, and uncomputation. With these you’ll at least be able to fake it until you make it!
-Quantum Algorithmic Structures
-Lecture 8 of Introduction to Quantum Computing.
+  * Week 7 : We will continue the theme of quantum advantages this week by studying the Deutsch-Jozsa algorithm. This algorithm also deterministically solves a problem which is impossible to solve via classical means with the same number of resources. This will be your first taste of a computational speed-up provided by quantum computers.
+  * Week 8 : This week you will learn about the high-level structure of quantum algorithms and some primitives such as superposition, digital logic, phase logic, and uncomputation. With these you’ll at least be able to fake it until you make it!
 
 * Saptashwa Bhattacharyya
   * [Quantum Computing: Understanding Simple Quantum Gates Using Qiskit](https://medium.com/a-bit-of-qubit/quantum-computing-understanding-simple-quantum-gates-using-qiskit-6bb96f52793b) : Getting Started with Quantum Computing using Python

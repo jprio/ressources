@@ -37,6 +37,15 @@ Lab 6 of Introduction to Quantum Computing
 * [Ebookpour comprendre l'informatique quantique](https://www.oezratty.net/wordpress/2018/ebook-pour-comprendre-informatique-quantique/)
 * [MOOC videolectures by Dr. Peter Wittek](https://www.youtube.com/channel/UCVROlDxzfRrlRexJvvCuQeg)
 
+# Compétitions
+* [Dockership](https://dockship.io/)
+* [RAMP](https://ramp.studio/)
+* [Machine Hack](https://machinehack.com/hackathons)
+* [Analytics Vidhya](https://datahack.analyticsvidhya.com/contest/all/#active)
+* [dPhi](https://dphi.tech/challenges/#active)
+* [Top 25 Machine Learning & AI Hackathons for Anyone to move to Data Science!](https://medium.com/analytics-vidhya/top-25-machine-learning-hackathons-its-here-now-for-anyone-to-move-to-data-science-a93deb2a198a)
+
+
 # Frameworks Python
 * Pandas
   * [20 Pandas Functions That Will Boost Your Data Analysis Process](https://towardsdatascience.com/20-pandas-functions-that-will-boost-your-data-analysis-process-f5dfdb2f9e05)

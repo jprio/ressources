@@ -74,6 +74,10 @@ Lab 6 of Introduction to Quantum Computing
  * [Infogram](https://infogram.com/)
  * [Datawrapper](https://app.datawrapper.de/)
  * [8 Free Tools to Make Interactive Data Visualizations in 2021 — No Coding Required](https://towardsdatascience.com/8-free-tools-to-make-interactive-data-visualizations-in-2021-no-coding-required-2b2c6c564b5b)
+ * [ChartBlocks](https://app.chartblocks.com/)
+ * [Data wrapper](https://app.datawrapper.de/)
+ * [Visme](https://dashboard.visme.co/v2/projects/own)
+ * 
 
 
 

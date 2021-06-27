@@ -92,6 +92,7 @@ Lab 6 of Introduction to Quantum Computing
 * [Predictive Analytics: Regression Analysis with LSTM, GRU and BiLSTM in TensorFlow](https://towardsdatascience.com/predictive-analysis-rnn-lstm-and-gru-to-predict-water-consumption-e6bb3c2b4b02)
 * [GluonTS](https://ts.gluon.ai/)
 * [Can LSTMs Predict Stock Prices? — A Complete Analysis](https://medium.com/analytics-vidhya/can-lstms-predict-stock-prices-a-complete-analysis-part-1-d9409451216d)
+* [Anomaly Detection Toolkit](https://arundo-adtk.readthedocs-hosted.com/en/stable/) : a Python package for unsupervised / rule-based time series anomaly detection.
 
 # Outils en ligne
 * [Tensorflow playground](playground.tensorflow)

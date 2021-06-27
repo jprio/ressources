@@ -93,6 +93,9 @@ Lab 6 of Introduction to Quantum Computing
 * [GluonTS](https://ts.gluon.ai/)
 * [Can LSTMs Predict Stock Prices? — A Complete Analysis](https://medium.com/analytics-vidhya/can-lstms-predict-stock-prices-a-complete-analysis-part-1-d9409451216d)
 * [Anomaly Detection Toolkit](https://arundo-adtk.readthedocs-hosted.com/en/stable/) : a Python package for unsupervised / rule-based time series anomaly detection.
+* facebook : Prophet & NeuralProphet
+* [Zillow Luminaire](https://github.com/zillow/luminaire/) : Luminaire is a python package that provides ML-driven solutions for monitoring time series data. Luminaire provides several anomaly detection and forecasting capabilities that incorporate correlational and seasonal patterns as well as uncontrollable variations in the data over time.
+* sktime
 
 # Outils en ligne
 * [Tensorflow playground](playground.tensorflow)

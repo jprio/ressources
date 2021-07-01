@@ -96,6 +96,7 @@ Lab 6 of Introduction to Quantum Computing
 * facebook : Prophet & NeuralProphet
 * [Zillow Luminaire](https://github.com/zillow/luminaire/) : Luminaire is a python package that provides ML-driven solutions for monitoring time series data. Luminaire provides several anomaly detection and forecasting capabilities that incorporate correlational and seasonal patterns as well as uncontrollable variations in the data over time.
 * sktime
+* [NeuralProphet For Time-Series Forecasting: Predicting Stock Prices Using Facebook’s New Model](https://medium.com/mlearning-ai/neuralprophet-for-time-series-forecasting-predicting-stock-prices-using-facebooks-new-model-a88ca146261c)
 
 # Outils en ligne
 * [Tensorflow playground](playground.tensorflow)

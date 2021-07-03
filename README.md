@@ -37,6 +37,9 @@ Lab 6 of Introduction to Quantum Computing
 * [Ebookpour comprendre l'informatique quantique](https://www.oezratty.net/wordpress/2018/ebook-pour-comprendre-informatique-quantique/)
 * [MOOC videolectures by Dr. Peter Wittek](https://www.youtube.com/channel/UCVROlDxzfRrlRexJvvCuQeg)
 
+# EDA
+* D-Tale (https://pypi.org/project/dtale/)
+
 # Compétitions
 * [Dockership](https://dockship.io/)
 * [RAMP](https://ramp.studio/)

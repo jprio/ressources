@@ -108,6 +108,7 @@ Lab 6 of Introduction to Quantum Computing
 
 # Maths, probabilités
 * [The statistical foundations of machine learning](https://towardsdatascience.com/the-statistical-foundations-of-machine-learning-973c356a95f)
+* [Survival Analysis with Python Tutorial — How, What, When, and Why](https://pub.towardsai.net/survival-analysis-with-python-tutorial-how-what-when-and-why-19a5cfb3c312) : Diving into survival analysis with Python — a statistical branch used to predict and calculate the expected duration of time for one or more significant events to occur.
 
 
 # Deep learning - IA - Machine learning

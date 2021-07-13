@@ -101,7 +101,7 @@ Lab 6 of Introduction to Quantum Computing
 * [Zillow Luminaire](https://github.com/zillow/luminaire/) : Luminaire is a python package that provides ML-driven solutions for monitoring time series data. Luminaire provides several anomaly detection and forecasting capabilities that incorporate correlational and seasonal patterns as well as uncontrollable variations in the data over time.
 * sktime
 * [NeuralProphet For Time-Series Forecasting: Predicting Stock Prices Using Facebook’s New Model](https://medium.com/mlearning-ai/neuralprophet-for-time-series-forecasting-predicting-stock-prices-using-facebooks-new-model-a88ca146261c)
-* [ADKT Anomaly detection toolkit](https://arundo-adtk.readthedocs-hosted.com/en/stable/index.html)(https://practicaldatascience.co.uk/machine-learning/how-to-create-ecommerce-anomaly-detection-models)
+* [ADKT Anomaly detection toolkit](https://arundo-adtk.readthedocs-hosted.com/en/stable/index.html). voir artivle : https://practicaldatascience.co.uk/machine-learning/how-to-create-ecommerce-anomaly-detection-models
 
 # Outils en ligne
 * [Tensorflow playground](playground.tensorflow)

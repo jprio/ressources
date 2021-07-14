@@ -25,6 +25,13 @@
 * [Ebookpour comprendre l'informatique quantique](https://www.oezratty.net/wordpress/2018/ebook-pour-comprendre-informatique-quantique/)
 * [MOOC videolectures by Dr. Peter Wittek](https://www.youtube.com/channel/UCVROlDxzfRrlRexJvvCuQeg)
 
+# Reinforcement learning
+* [Reinforcement Learning Made Simple](https://towardsdatascience.com/reinforcement-learning-made-simple-part-1-intro-to-basic-concepts-and-terminology-1d2a87aa060). série de 7 articles. plutôt théorique.
+
+# Trading
+* [Algorithmic Trading 101](https://towardsdatascience.com/algorithmic-trading-101-1f9bb503e22a)
+* [Top Python trading packages for 2021](https://medium.com/code-sprout/top-python-trading-packages-for-2021-f6165f2674a8) : brokerage ([Robinhood](https://join.robinhood.com/shyamb35), [Alpaca](http://alpaca.markets/)), pyalgotrade (http://gbeced.github.io/pyalgotrade/#), yfinance, polygon (realtime data avec websocket), [Finviz](https://github.com/mariostoev/finviz), 
+
 # EDA
 * D-Tale (https://pypi.org/project/dtale/)
 

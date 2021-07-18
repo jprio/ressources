@@ -97,6 +97,7 @@
 * sktime
 * [NeuralProphet For Time-Series Forecasting: Predicting Stock Prices Using Facebook’s New Model](https://medium.com/mlearning-ai/neuralprophet-for-time-series-forecasting-predicting-stock-prices-using-facebooks-new-model-a88ca146261c)
 * [ADKT Anomaly detection toolkit](https://arundo-adtk.readthedocs-hosted.com/en/stable/index.html). voir artivle : https://practicaldatascience.co.uk/machine-learning/how-to-create-ecommerce-anomaly-detection-models
+* [Time Series Forecasting with PyCaret Regression Module](https://towardsdatascience.com/time-series-forecasting-with-pycaret-regression-module-237b703a0c63)
 
 # Outils en ligne
 * [Tensorflow playground](playground.tensorflow)

@@ -98,6 +98,7 @@
 * [NeuralProphet For Time-Series Forecasting: Predicting Stock Prices Using Facebook’s New Model](https://medium.com/mlearning-ai/neuralprophet-for-time-series-forecasting-predicting-stock-prices-using-facebooks-new-model-a88ca146261c)
 * [ADKT Anomaly detection toolkit](https://arundo-adtk.readthedocs-hosted.com/en/stable/index.html). voir artivle : https://practicaldatascience.co.uk/machine-learning/how-to-create-ecommerce-anomaly-detection-models
 * [Time Series Forecasting with PyCaret Regression Module](https://towardsdatascience.com/time-series-forecasting-with-pycaret-regression-module-237b703a0c63)
+* [Facebook Kats](https://github.com/facebookresearch/Kats) : Kats is a toolkit to analyze time series data, a lightweight, easy-to-use, and generalizable framework to perform time series analysis. Time series analysis is an essential component of Data Science and Engineering work at industry, from understanding the key statistics and characteristics, detecting regressions and anomalies, to forecasting future trends. Kats aims to provide the one-stop shop for time series analysis, including detection, forecasting, feature extraction/embedding, multivariate analysis, etc.
 
 # Outils en ligne
 * [Tensorflow playground](playground.tensorflow)

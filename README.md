@@ -35,6 +35,9 @@
 # EDA
 * D-Tale (https://pypi.org/project/dtale/)
 
+# Databases
+* [Beneath](https://about.beneath.dev/)
+
 # Compétitions
 * [Dockership](https://dockship.io/)
 * [RAMP](https://ramp.studio/)

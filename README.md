@@ -38,13 +38,15 @@
 # Databases
 * [Beneath](https://about.beneath.dev/)
 
-# Compétitions
+# Compétitions et code
 * [Dockership](https://dockship.io/)
 * [RAMP](https://ramp.studio/)
 * [Machine Hack](https://machinehack.com/hackathons)
 * [Analytics Vidhya](https://datahack.analyticsvidhya.com/contest/all/#active)
 * [dPhi](https://dphi.tech/challenges/#active)
 * [Top 25 Machine Learning & AI Hackathons for Anyone to move to Data Science!](https://medium.com/analytics-vidhya/top-25-machine-learning-hackathons-its-here-now-for-anyone-to-move-to-data-science-a93deb2a198a)
+* [HackerRank](https://www.hackerrank.com/dashboard)
+* [Leetcode](https://leetcode.com/problemset/all/)
 
 
 # Frameworks Python
@@ -82,10 +84,6 @@
  * [Panel](http://blog.pyviz.org/panel_announcement.html) : Panel is a new open-source Python library that lets you create custom interactive web apps and dashboards by connecting user-defined widgets to plots, images, tables, or text. It is the culmination of our multi-year effort to connect data scientists with tools for deploying the output of their analysis and models with internal or external consumers of the analysis without having to learn completely different technology stacks or getting into the weeds of web development.
 * [datashader](https://datashader.org/index.html) : Datashader is a graphics pipeline system for creating meaningful representations of large datasets quickly and flexibly. Datashader breaks the creation of images into a series of explicit steps that allow computations to be done on intermediate representations. 
 
-
-# Code
-* [HackerRank](https://www.hackerrank.com/dashboard)
-* [Leetcode](https://leetcode.com/problemset/all/)
 
 # Séries temporelles
 * [Time Series and How to Detect Anomalies in Them part I, II, III](https://becominghuman.ai/time-series-and-how-to-detect-anomalies-in-them-part-i-7f9f6c2ad32e)

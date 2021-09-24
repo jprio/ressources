@@ -1,0 +1,26 @@
+# Quantum computing
+
+* [Jonathan Hui - Quantum Computing series](https://jonathan-hui.medium.com/qc-quantum-computing-series-10ddd7977abd)
+* [James Wooton](https://decodoku.medium.com/)
+* [Introduction to quantum computing: Basic quantum theory.](http://akyrillidis.github.io/notes/quant_post_4) : This is part of a (probably) long list of posts regarding quantum computing. In this post, we will talk about quantum states, observables, what it means to measure a quantum state, and the dynamics of quantum states.
+* [Get started with IBM Quantum Experience](https://quantum-computing.ibm.com/docs/) : Develop workflows that incorporate both quantum circuits and classical computations, and quickly build quantum applications at scale… all with the systems, tools, and services available in IBM Quantum Experience.
+* [How Do I Build a Quantum Computer in My House?](https://medium.com/qiskit/how-do-i-build-a-quantum-computer-in-my-house-1c7e9dc0c242) : Open-access frameworks like Qiskit let you program a quantum computer over the cloud, and you’re an enterprising person who has a familiarity with quantum computers. So, if you happen to find yourself in need of something to do, how about trying to program a quantum computer that you built yourself?
+* [Introduction to Coding Quantum Algorithms:A Tutorial Series Using Qiskit](https://arxiv.org/pdf/1903.04359.pdf) : As the field of Quantum Computing continues to grow, so too has the general public’s interest in testing some of the publicly available quantum computers. However, many might find learning all of the supplementary information that goes into quantum algorithms to be a daunting task, and become discouraged. This tutorial is a series of lessons, aimed to teach the basics of quantum algorithms to those who may have little to no background in quantum physics and/or minimal knowledge of coding in python. Each lesson covers select physics/coding topics needed for writing quantum algorithms, eventually building up a toolset for tackling more and more challenging quantum algorithms. This tutorial series is designed to provide readers from any background with two services: 1) A concise and thorough understanding of some of the most popular/academically important quantum algorithms. 2) A fluent understanding of how to write code for quantum algorithms, using IBM’s publicly available Qiskit.
+* [The Deutsch-Jozsa Algorithm](https://medium.com/datadriveninvestor/the-deutsch-jozsa-algorithm-f8611e2ff3ff) : The Math, the Code, and Why It Works
+* [Quantum Error Correction using Qiskit](https://medium.com/swlh/quantum-error-correction-using-qiskit-1d6b708490b9)
+* [Grokking Quantum Computing — A Quirky Guide for Curious People](https://towardsdatascience.com/grokking-quantum-computing-a-quirky-guide-for-curious-people-8cea6eb67803)
+* [Introduction to Quantum Computing par Chris Ferrie sur Medium](https://csferrie.medium.com/qubits-qubits-qubits-more-is-different-8c2a5f9686c0)
+* Saptashwa Bhattacharyya
+  * [Quantum Computing: Understanding Simple Quantum Gates Using Qiskit](https://medium.com/a-bit-of-qubit/quantum-computing-understanding-simple-quantum-gates-using-qiskit-6bb96f52793b) : Getting Started with Quantum Computing using Python
+  * [Quantum Computing: Bell State and Entanglement with Qiskit](https://medium.com/a-bit-of-qubit/quantum-computing-bell-state-and-entanglement-with-qiskit-621489fb36bd) : Entangled Qubits with Hadamard Gate and CNOT Gate
+  * [Simple Quantum Circuits to Understand Multiple Qubit States](https://medium.com/a-bit-of-qubit/simple-quantum-circuits-to-understand-multiple-qubit-states-79e576a9d0fe) : Quantum Circuits and Bloch Sphere
+* [Frank Zickert sur Medium](https://medium.com/@fzickert)
+* [Intrication Quantique - epfl](https://documents.epfl.ch/groups/i/ip/ipg/www/2013-2014/Traitement_Quantique_de_l_Information/chapter-5-2013.pdf)
+* Quantum Teleportation from scratch to magic. Edwin Agnew
+  * [Part 1 — The What?](https://edwinagnew1.medium.com/quantum-teleportation-from-scratch-to-magic-part-1-the-what-e51b543ff036)
+  * [Part 2 — Doing It on a Real Device](https://medium.com/swlh/quantum-teleportation-from-scratch-to-magic-part-2-doing-it-on-a-real-device-25be7386a158)
+  * [Part 3 — A new theory of time?](https://edwinagnew1.medium.com/quantum-teleportation-from-scratch-to-magic-part-3-a-new-theory-of-time-feb8684d952b)
+* [Understanding Quantum Computershttps://towardsdatascience.com/understanding-quantum-computers-ecb9d375b46f]()
+* [The Ket Quest (français](https://theketquest.home.blog/)
+* [Ebookpour comprendre l'informatique quantique](https://www.oezratty.net/wordpress/2018/ebook-pour-comprendre-informatique-quantique/)
+* [MOOC videolectures by Dr. Peter Wittek](https://www.youtube.com/channel/UCVROlDxzfRrlRexJvvCuQeg)

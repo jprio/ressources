@@ -124,6 +124,7 @@ The purpose of this post is to cover important concepts from Information Theory 
 * [RusNor] Stuart Russell and Peter Norvig, Artificial Intelligence: A Modern Approach (3rd Edition) (2010)
 * [Statistics with Julia: Fundamentals for Data Science, Machine Learning and Artificial Intelligence.](https://statisticswithjulia.org/StatisticsWithJuliaDRAFT.pdf)
 * [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+* [The Machine & Deep Learning Compendium](https://book.mlcompendium.com/)
 
 # Datasets & notebooks
 * [Google datasets search](https://datasetsearch.research.google.com/)

@@ -57,6 +57,7 @@
  * [hvPlot](https://hvplot.holoviz.org/user_guide/Introduction.html) : hvPlot provides a high-level plotting API built on HoloViews and Bokeh that provides a general and consistent API for plotting data
  * [Panel](http://blog.pyviz.org/panel_announcement.html) : Panel is a new open-source Python library that lets you create custom interactive web apps and dashboards by connecting user-defined widgets to plots, images, tables, or text. It is the culmination of our multi-year effort to connect data scientists with tools for deploying the output of their analysis and models with internal or external consumers of the analysis without having to learn completely different technology stacks or getting into the weeds of web development.
 * [datashader](https://datashader.org/index.html) : Datashader is a graphics pipeline system for creating meaningful representations of large datasets quickly and flexibly. Datashader breaks the creation of images into a series of explicit steps that allow computations to be done on intermediate representations. 
+* [https://www.analyticsvidhya.com/blog/2021/06/advanced-python-data-visualization-libraries-plotly/] : Cufflinks
 
 
 # Séries temporelles

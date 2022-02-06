@@ -2,10 +2,6 @@
 # Reinforcement learning
 * [Reinforcement Learning Made Simple](https://towardsdatascience.com/reinforcement-learning-made-simple-part-1-intro-to-basic-concepts-and-terminology-1d2a87aa060). série de 7 articles. plutôt théorique.
 
-# Trading
-* [Algorithmic Trading 101](https://towardsdatascience.com/algorithmic-trading-101-1f9bb503e22a)
-* [Top Python trading packages for 2021](https://medium.com/code-sprout/top-python-trading-packages-for-2021-f6165f2674a8) : brokerage ([Robinhood](https://join.robinhood.com/shyamb35), [Alpaca](http://alpaca.markets/)), pyalgotrade (http://gbeced.github.io/pyalgotrade/#), yfinance, polygon (realtime data avec websocket), [Finviz](https://github.com/mariostoev/finviz), 
-
 # EDA
 * D-Tale (https://pypi.org/project/dtale/)
 
@@ -75,6 +71,20 @@
 * [ADKT Anomaly detection toolkit](https://arundo-adtk.readthedocs-hosted.com/en/stable/index.html). voir artivle : https://practicaldatascience.co.uk/machine-learning/how-to-create-ecommerce-anomaly-detection-models
 * [Time Series Forecasting with PyCaret Regression Module](https://towardsdatascience.com/time-series-forecasting-with-pycaret-regression-module-237b703a0c63)
 * [Facebook Kats](https://github.com/facebookresearch/Kats) : Kats is a toolkit to analyze time series data, a lightweight, easy-to-use, and generalizable framework to perform time series analysis. Time series analysis is an essential component of Data Science and Engineering work at industry, from understanding the key statistics and characteristics, detecting regressions and anomalies, to forecasting future trends. Kats aims to provide the one-stop shop for time series analysis, including detection, forecasting, feature extraction/embedding, multivariate analysis, etc.
+* [tsfresh](https://tsfresh.readthedocs.io/en/latest/) is a python package. It automatically calculates a large number of time series characteristics, the so called features. Further the package contains methods to evaluate the explaining power and importance of such characteristics for regression or classification tasks.
+* [autots](https://github.com/winedarksea/AutoTS) AutoTS is a time series package for Python designed for rapidly deploying high-accuracy forecasts at scale. 
+There are dozens of forecasting models usable in the sklearn style of .fit() and .predict(). These includes naive, statistical, machine learning, and deep learning models. Additionally, there are over 30 time series specific transforms usable in the sklearn style of .fit(), .transform() and .inverse_transform(). All of these function directly on Pandas Dataframes, without the need for conversion to proprietary objects.
+All models support forecasting multivariate (multiple time series) outputs and also support probabilistic (upper/lower bound) forecasts. Most models can readily scale to tens and even hundreds of thousands of input series. Many models also support passing in user-defined exogenous regressors.
+These models are all designed for integration in an AutoML feature search which automatically finds the best models, preprocessing, and ensembling for a given dataset through genetic algorithms.
+* [darts](https://unit8co.github.io/darts/) is a Python library for easy manipulation and forecasting of time series. It contains a variety of models, from classics such as ARIMA to deep neural networks. The models can all be used in the same way, using fit() and predict() functions, similar to scikit-learn. The library also makes it easy to backtest models, and combine the predictions of several models and external regressors. Darts supports both univariate and multivariate time series and models. The ML-based models can be trained on multiple time series, and some of the models offer probabilistic forecasts.
+* [atspy](https://towardsdatascience.com/7-libraries-that-help-in-time-series-problems-d59473e48ddd) stands for Automated Time Series Models in Python. The goal of the library is to forecast univariate time series. 
+* [kats](https://github.com/facebookresearch/Kats) is another recent library developed by the research team at Facebook dedicated especially to handle time-series data. The goal of the framework is to provide a complete solution for solving time series problems. Using this library we can do the following:
+time-series analysis
+detection of patterns including seasonalities, outlier, trend changes
+feature engineering module that produces 65 features
+building forecasting models on time series data including Prophet, ARIMA, Holt-Winters, etc.
+
+
 
 # Outils en ligne
 * [Tensorflow playground](playground.tensorflow)

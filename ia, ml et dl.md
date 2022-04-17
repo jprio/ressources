@@ -143,6 +143,9 @@ The purpose of this post is to cover important concepts from Information Theory 
 * [Awsome project ideas](https://github.com/NirantK/awesome-project-ideas)
 * [https://worlddata.ai/](https://worlddata.ai/)
 * [Awesome list of datasets in 100+ categories](https://www.kdnuggets.com/2021/05/awesome-list-datasets.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+kdnuggets-data-mining-analytics+%28KDnuggets%3A+Data+Mining+and+Analytics%29#Museums_Dataset)
+* [The Complete Collection Of Data Repositories – Part 1](https://www.kdnuggets.com/2022/04/complete-collection-data-repositories-part-1.html?utm_source=rss&utm_medium=rss&utm_campaign=the-complete-collection-of-data-repositories-part-1)
+* [The Complete Collection Of Data Repositories – Part 2](https://www.kdnuggets.com/2022/04/complete-collection-data-repositories-part-2.html?utm_source=feedly&utm_medium=rss&utm_campaign=the-complete-collection-of-data-repositories-part-2)
+*
 
 # MOOCs
 * [Machine Learning par Université de Stanford (Andrew Ng)[https://www.coursera.org/learn/machine-learning/home/welcome) : The purpose of this post is to cover important concepts from Information Theory and describe how they are used in machine learning. Many of the topics here will build on concepts we discussed in the post on Probability Theory, such as independence and expectation.

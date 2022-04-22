@@ -4,6 +4,7 @@
 
 # EDA
 * D-Tale (https://pypi.org/project/dtale/)
+* [Lux](https://lux-api.readthedocs.io/en/latest/)
 
 # Databases
 * [Beneath](https://about.beneath.dev/)

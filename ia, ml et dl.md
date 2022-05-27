@@ -56,7 +56,7 @@
  * [Panel](http://blog.pyviz.org/panel_announcement.html) : Panel is a new open-source Python library that lets you create custom interactive web apps and dashboards by connecting user-defined widgets to plots, images, tables, or text. It is the culmination of our multi-year effort to connect data scientists with tools for deploying the output of their analysis and models with internal or external consumers of the analysis without having to learn completely different technology stacks or getting into the weeds of web development.
 * [datashader](https://datashader.org/index.html) : Datashader is a graphics pipeline system for creating meaningful representations of large datasets quickly and flexibly. Datashader breaks the creation of images into a series of explicit steps that allow computations to be done on intermediate representations. 
 * [https://www.analyticsvidhya.com/blog/2021/06/advanced-python-data-visualization-libraries-plotly/] : Cufflinks
-
+* [https://streamlit.io/cloud](Streamlit Cloud)
 
 # Séries temporelles
 * [Time Series and How to Detect Anomalies in Them part I, II, III](https://becominghuman.ai/time-series-and-how-to-detect-anomalies-in-them-part-i-7f9f6c2ad32e)
@@ -179,6 +179,7 @@ In part two, you will learn about Unsupervised Learning. Ever wonder how Netflix
   * Deploying the model at scale
 * [Introduction to Computational Thinking with Julia, with Applications to Modeling the COVID-19 Pandemic](https://ocw.mit.edu/courses/mathematics/18-s190-introduction-to-computational-thinking-with-julia-with-applications-to-modeling-the-covid-19-pandemic-spring-2020/index.htm) : This half-semester course introduces computational thinking through applications of data science, artificial intelligence, and mathematical models using the Julia programming language. This Spring 2020 version is a fast-tracked curriculum adaptation to focus on applications to COVID-19 responses.
 * [Data Visualization using Python](https://olympus.greatlearning.in/courses/10900)
+* [https://m2dsupsdlclass.github.io/lectures-labs/](Deep Learning course: lecture slides and lab notebooks - This course is being taught at as part of Master Year 2 Data Science IP-Paris)
 
 # Questions entretien
 * [Popular Machine Learning Interview Questions](https://www.kdnuggets.com/2021/01/popular-machine-learning-interview-questions.html)

@@ -57,6 +57,7 @@
 * [datashader](https://datashader.org/index.html) : Datashader is a graphics pipeline system for creating meaningful representations of large datasets quickly and flexibly. Datashader breaks the creation of images into a series of explicit steps that allow computations to be done on intermediate representations. 
 * [https://www.analyticsvidhya.com/blog/2021/06/advanced-python-data-visualization-libraries-plotly/] : Cufflinks
 * [https://streamlit.io/cloud](Streamlit Cloud)
+* Google Data Studio
 
 # Séries temporelles
 * [Time Series and How to Detect Anomalies in Them part I, II, III](https://becominghuman.ai/time-series-and-how-to-detect-anomalies-in-them-part-i-7f9f6c2ad32e)

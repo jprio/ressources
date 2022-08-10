@@ -86,7 +86,7 @@ time-series analysis
 detection of patterns including seasonalities, outlier, trend changes
 feature engineering module that produces 65 features
 building forecasting models on time series data including Prophet, ARIMA, Holt-Winters, etc.
-
+* [pyflux](https://pyflux.readthedocs.io/en/latest/) : PyFlux is a library for time series analysis and prediction. Users can choose from a flexible range of modelling and inference options, and use the output for forecasting and retrospection. Users can build a full probabilistic model where the data y and latent variables (parameters) z are treated as random variables through a joint probability p(y,z). The advantage of a probabilistic approach is that it gives a more complete picture of uncertainty, which is important for time series tasks such as forecasting. Alternatively, for speed, users can simply use Maximum Likelihood estimation for speed within the same unified API.
 
 
 # Outils en ligne

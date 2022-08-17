@@ -4,6 +4,7 @@
 # API
 * [{JSON}placeholder](https://jsonplaceholder.typicode.com/) free fake api
 * Heroku is a platform as a service (PaaS) that enables developers to build, run, and operate applications entirely in the cloud.
+* [Public APIs](https://github.com/public-apis/public-apis)
 
 # Databases
 * [Mongo](https://www.mongodb.com/cloud/atlas)

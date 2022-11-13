@@ -9,7 +9,7 @@ GeoTIFF are TIFF files that contain spatial referencing information the form of 
 * KML - Keyhole Markup Language (.kml)
 * GeoJSON (.json, .geojson)
 * LiDAR (.las, .laz, .zlas)
-* raster
+* raster ([The Ultimate Beginner’s Guide to Geospatial Raster Data](https://towardsdatascience.com/the-ultimate-beginners-guide-to-geospatial-raster-data-feb7673f6db0))
  
 
 # Sources de données

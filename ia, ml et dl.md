@@ -1,3 +1,5 @@
+# Cheat Sheet 
+* [stanford-cs-229-machine-learning](https://github.com/afshinea/stanford-cs-229-machine-learning/tree/master/fr)
 
 # Reinforcement learning
 * [Reinforcement Learning Made Simple](https://towardsdatascience.com/reinforcement-learning-made-simple-part-1-intro-to-basic-concepts-and-terminology-1d2a87aa060). série de 7 articles. plutôt théorique.
